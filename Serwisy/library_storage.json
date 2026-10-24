@@ -1,0 +1,81 @@
+{
+    "items": [
+        {
+            "type": "Film",
+            "name": "qwefwf",
+            "year": 2025,
+            "studio": "wqf",
+            "duration": 123,
+            "genre": [
+                "Drama"
+            ],
+            "status": "Chcę obejrzeć/przeczytać",
+            "image_path": ""
+        },
+        {
+            "type": "Film",
+            "name": "123r3r`2",
+            "year": 2025,
+            "studio": "wefqw",
+            "duration": 4343,
+            "genre": [
+                "Thriller"
+            ],
+            "status": "Chcę obejrzeć/przeczytać",
+            "image_path": ""
+        },
+        {
+            "type": "Film",
+            "name": "r123r21r2f",
+            "year": 2025,
+            "studio": "32ewe",
+            "duration": 1234,
+            "genre": [
+                "Thriller"
+            ],
+            "status": "Chcę obejrzeć/przeczytać",
+            "image_path": ""
+        },
+        {
+            "type": "Film",
+            "name": "qfjwhflf",
+            "year": 2025,
+            "studio": "jlwe",
+            "duration": 491,
+            "genre": [
+                "Drama"
+            ],
+            "status": "Chcę obejrzeć/przeczytać",
+            "image_path": ""
+        },
+        {
+            "type": "Film",
+            "name": "wefqwf",
+            "year": 2025,
+            "studio": "wqef",
+            "duration": 3,
+            "genre": [
+                "Anime"
+            ],
+            "status": "Chcę obejrzeć/przeczytać",
+            "image_path": ""
+        }
+    ],
+    "studios": [
+        "wefqw",
+        "wqf",
+        "wqef",
+        "32ewe",
+        "ljhlk",
+        "Warner Bros",
+        "jlwe",
+        "Netflix",
+        "Universal",
+        "HBO"
+    ],
+    "authors": [
+        "Andrzej Sapkowski",
+        "J.K. Rowling",
+        "Stephen King"
+    ]
+}
